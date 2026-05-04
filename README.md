@@ -1,8 +1,4 @@
-# Farrel Darian
-
-Building developer tools — CLIs, TUIs, and agent infrastructure.
-
-## Projects
+### Projects
 
 - **[better-pm](https://github.com/fdarian/better-pm)** — A better CLI for package manager operations, especially in monorepos. Wraps pnpm and bun with scoped installs, signal-safe dev servers, and quick workspace navigation.
 - **[agent-dash](https://github.com/fdarian/agent-dash)** — A TUI for managing and monitoring Claude Code sessions running in tmux.
@@ -10,7 +6,7 @@ Building developer tools — CLIs, TUIs, and agent infrastructure.
 - **[cc-essentials](https://github.com/fdarian/cc-essentials)** — A small Rust CLI that makes Claude Code smarter in JavaScript and TypeScript projects by formatting edits and feeding lint diagnostics back into context.
 - **[oagent](https://github.com/fdarian/oagent)** — An MCP server that exposes OpenCode to Claude Code as a subagent over the Agent Client Protocol.
 
-## Archived
+### Archived
 
 - **[whap](https://github.com/fdarian/whap)** — A mocked WhatsApp Cloud API for testing integrations without real endpoints or phone numbers.
 - **[prisma-generator-drizzle](https://github.com/fdarian/prisma-generator-drizzle)** — A Prisma generator that produces Drizzle schemas with 1:1 mapping, useful for migrating from Prisma to Drizzle.
