@@ -5,6 +5,8 @@
 - **[tmux-sessions](https://github.com/fdarian/tmux-sessions)** — A drop-in replacement for tmux's `choose-tree` with fuzzy search, live pane previews, and custom session names.
 - **[cc-essentials](https://github.com/fdarian/cc-essentials)** — A small Rust CLI that makes Claude Code smarter in JavaScript and TypeScript projects by formatting edits and feeding lint diagnostics back into context.
 - **[oagent](https://github.com/fdarian/oagent)** — An MCP server that exposes OpenCode to Claude Code as a subagent over the Agent Client Protocol.
+- **[otheme](https://github.com/fdarian/otheme)** — Shared themes manager across TUIs and terminal targets
+- **[furl](https://github.com/fdarian/furl)** — curl replacement to fetch web pages in markdown
 - **[rskills](https://github.com/fdarian/rskills)** — Read any skills without installing them
 - **[claude-prompt.nvim](https://github.com/fdarian/claude-prompt.nvim)** — A Neovim plugin for Claude Code's external editor buffers, with slash command and `@file` completion backed by a Rust native module.
 - **[lazygit.nvim](https://github.com/fdarian/lazygit.nvim)** — A Neovim plugin that opens lazygit in a fullscreen floating window, with optional vim-tmux-navigator integration.
